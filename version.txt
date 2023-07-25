@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Version A Master again
+=======
+Version A DEv1 
+BBBB
+>>>>>>> 06844fb0dc2762c896ed61d100bcfba4dbd4cf43
