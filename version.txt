@@ -1,2 +1,2 @@
 Version A DEv1 
-BBBB change in the gitbrowser
+BBBB taken detached head from broswer change in workspace as detatched
